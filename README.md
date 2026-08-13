@@ -18,4 +18,6 @@ I care most about the unglamorous part of data science - clean pipelines, valida
 - **SQL & Data Modelling:** Relational data modelling and query optimisation in PostgreSQL and MySQL
 
 ## 🔗 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/afeezbisiriyu)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:bisiriyuafeez.ba@gmail.com)
