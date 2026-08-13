@@ -16,3 +16,6 @@ I care most about the unglamorous part of data science - clean pipelines, valida
 - **Data Engineering:** ETL pipeline design, data validation, and workflow automation in Python and SQL
 - **Data Visualization:** Dashboards and reporting in Power BI and Tableau
 - **SQL & Data Modelling:** Relational data modelling and query optimisation in PostgreSQL and MySQL
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/afeezbisiriyu)
