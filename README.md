@@ -19,5 +19,6 @@ I care most about the unglamorous part of data science - clean pipelines, valida
 
 ## 🔗 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.https://github.com/afeezbisiriyu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/afeezbisiriyu)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:bisiriyuafeez.ba@gmail.com)
