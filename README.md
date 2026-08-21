@@ -2,7 +2,7 @@
 
 I'm a Data Scientist based in Manchester, working across machine learning, data analysis, and BI. I have an MSc in Data Science and came into the field from a Physics background which is probably why I still care more about whether a model or pipeline actually holds up than about how it looks in a slide deck.
 
-Day to day I move between two modes: analyst work (SQL, KPI frameworks, digging into why a number moved) and ML work (building and validating models other people end up relying on). This profile is where I share the projects behind that — mostly Python, SQL, and Tableau/Power BI, plus a couple of things I built just because I wanted to understand them better.
+Day to day I move between two modes: analyst work (SQL, KPI frameworks, digging into why a number moved) and ML work (building and validating models other people end up relying on). This profile is where I share the projects behind that mostly Python, SQL, and Tableau/Power BI, plus a couple of things I built just because I wanted to understand them better.
 
 ## What I work with
 
@@ -22,7 +22,7 @@ Day to day I move between two modes: analyst work (SQL, KPI frameworks, digging 
 
 ## Currently
 
-Open to Data Scientist / Data Analyst / ML Engineer roles — happy to walk through any of the above in more detail.
+Open to Data Scientist / Data Analyst / ML Engineer roles and happy to walk through any of the above in more detail.
 
 ## Get in touch
 
